@@ -20,7 +20,7 @@ p.random_erasing(probability=0.2,rectangle_area=0.8)
 
 ### Model Architecture
 
-![AlexNet]("/alexnet.png")
+![AlexNet]("..\alexnet.png")
 
 AlexNet Model has been implemented for this task with slight modifications.
 
