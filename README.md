@@ -20,7 +20,7 @@ p.random_erasing(probability=0.2,rectangle_area=0.8)
 
 ### Model Architecture
 
-![AlexNet]("..\alexnet.png")
+![AlexNet]("alexnet.png")
 
 AlexNet Model has been implemented for this task with slight modifications.
 
@@ -105,10 +105,10 @@ LocationCNN(
 The model achieved 94% Accuracy on training for 20 epochs in an batch size of 77 for 2541 images and validation set consisting of 539 images.
 <hr>
 
-![Accuracy]("./accuracy.png)
+![Accuracy]("accuracy.png)
 
 <hr>
 
-![TrainingLoss]("./trainloss.png")
+![TrainingLoss]("trainloss.png")
 
 
