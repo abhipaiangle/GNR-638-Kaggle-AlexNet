@@ -32,8 +32,6 @@ Framework: Pytorch
 The model achieved 94% Accuracy on validation set on training for 20 epochs in an batch size of 77 for 2541 images and validation set consisting of 539 images.
 <hr>
 
-### Result
-
 ![Accuracy](accuracy.png)
 
 <hr>
